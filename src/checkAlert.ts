@@ -1,4 +1,3 @@
-// src/server.ts
 import { checkAlerts } from './services/alertService';
 import './app';
 
